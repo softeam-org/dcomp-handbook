@@ -1,336 +1,153 @@
-# DCOMP Handbook
+# DComp Handbook
 
-Este repositório contém orientações úteis e recursos educacionais para auxiliar o aprendizado e desenvolvimento nas disciplinas dos cursos do Departamento de Computação da Universidade Federal de Sergipe.
+Seja muito bem vindo ao **DComp Handbook**!
+<br>
+Neste repositório você encontrará orientações úteis e recursos educacionais para auxiliar o aprendizado e desenvolvimento nas disciplinas dos cursos do Departamento de Computação da Universidade Federal de Sergipe (UFS).
 
-Matérias separadas por departamento
+### Departamentos:
 - [Departamento de Computação (DCOMP)](#dcomp)
 - [Departamento de Matemática (DMA)](#dma)
 - [Departamento de Física (DFI)](#dfi)
 - [Departamento de Engenharia Elétrica (DEL)](#del)
-- [Outros Departamentos](#outros)
+- [Departamento de Administração (DAD)](#dad)
+- [Departamento de Estatística e Ciências Atuariais (DECAT)](#decat)
 
-<h2 id="dcomp">Departamento de Computação (DCOMP)</h2>
+<hr/>
+<h3 id="dcomp">Departamento de Computação (DCOMP)</h3>
 
-### Paradigmas de Programação
+#### Paradigmas de Programação
 
-<details>
-  <summary>PROGRAMAÇÃO FUNCIONAL</summary>
-</details>
+- [Programação Funcional](./handbook/dcomp/programacao-funcional.md)
+- [Programação Imperativa](./handbook/dcomp/programacao-imperativa.md)
+- [Programação Orientada a Objetos](./handbook/dcomp/programacao-orientada-a-objetos.md)
 
-<details>
-   <summary>PROGRAMAÇÃO IMPERATIVA</summary>
-</details>
+#### Lógica e Teoria da Computação
 
-<details>
-   <summary>PROGRAMAÇÃO ORIENTADA A OBJETOS</summary>
-</details>
+- [Lógica para Computação](./handbook/dcomp/logica-para-computacao.md)
+- [Linguagens Formais e Computabilidade](./handbook/dcomp/linguagens-formais-e-computabilidade.md)
 
-### Lógica e Teoria da Computação
+#### Algoritmos
 
-<details>
-   <summary>LÓGICA PARA COMPUTAÇÃO</summary>
-</details>
+- [Estruturas de Dados](./handbook/dcomp/estrutura-de-dados.md)
+- [Projeto e Análise de Algoritmos](./handbook/dcomp/projeto-e-analise-de-algoritmos.md)
+- [Grafos e Algoritmos Computacionais](./handbook/dcomp/grafos-e-algoritmos-computacionais.md)
+- [Inteligência Artificial](./handbook/dcomp/inteligencia-artificial.md)
 
-<details>
-   <summary>LINGUAGENS FORMAIS E COMPUTABILIDADE</summary>
-</details>
+#### Hardware
 
-### Algoritmos
+- [Fundamentos de Sistemas Digitais](./handbook/dcomp/fundamentos-de-sistemas-digitais.md)
+- [Prática em Sistemas Digitais](./handbook/dcomp/pratica-em-sistemas-digitais.md)
+- [Arquitetura de Computadores](./handbook/dcomp/arquitetura-de-computadores.md)
+- [Fundamentos de Sistemas Embarcados](./handbook/dcomp/fundamentos-de-sistemas-embarcados.md)
 
-<details>
-   <summary>ESTRUTURAS DE DADOS</summary>
-</details>
+#### Desenvolvimento de Software
 
-<details>
-   <summary>PROJETO E ANÁLISE DE ALGORITMOS</summary>
-</details>
+- [Banco de Dados I](./handbook/dcomp/banco-de-dados-i.md)
+- [Engenharia de Software I](./handbook/dcomp/engenharia-de-software-i.md)
+- [Engenharia de Software II](./handbook/dcomp/engenharia-de-software-ii.md)
+- [Teste de Software](./handbook/dcomp/teste-de-software.md)
+- [Evolução de Software](./handbook/dcomp/evolucao-de-software.md)
+- [Qualidade de Software](./handbook/dcomp/qualidade-de-software.md)
+- [Prática Orientada em Computação I](./handbook/dcomp/pratica-orientada-em-computacao-i.md)
+- [Prática Orientada em Computação II](./handbook/dcomp/pratica-orientada-em-computacao-ii.md)
 
-<details>
-   <summary>GRAFOS E ALGORITMOS COMPUTACIONAIS</summary>
-</details>
+#### Redes de Computadores
 
-<details>
-   <summary>INTELIGÊNCIA ARTIFICIAL</summary>
-</details>
+- [Redes de Computadores](./handbook/dcomp/redes-de-computadores.md)
+- [Laboratório de Redes de Computadores](./handbook/dcomp/laboratorio-de-redes-de-computadores.md)
+- [Sistemas Distribuídos](./handbook/dcomp/sistemas-distribuidos.md)
 
-### Hardware
+#### Software de Baixo Nível
 
-<details>
-   <summary>FUNDAMENTOS DE SISTEMAS DIGITAIS</summary>
-</details>
+- [Sistemas Operacionais](./handbook/dcomp/sistemas-operacionais.md)
+- [Programação Paralela e Concorrente](./handbook/dcomp/programacao-paralela-e-concorrente.md)
+- [Interface Hardware/Software](./handbook/dcomp/interface-hardware-software.md)
 
-<details>
-   <summary>PRÁTICA EM SISTEMAS DIGITAIS</summary>
-</details>
+#### Imagens e Gráficos
 
-<details>
-   <summary>ARQUITETURA DE COMPUTADORES</summary>
-</details>
+- [Processamento de Imagens](./handbook/dcomp/processamento-de-imagens.md)
+- [Computação Gráfica](./handbook/dcomp/computacao-grafica.md)
 
-<details>
-   <summary>FUNDAMENTOS DE SISTEMAS EMBARCADOS</summary>
-</details>
+#### Gestão
 
-### Desenvolvimento de Software
+- [Gestão de Sistemas de Informação](./handbook/dcomp/gestao-de-sistemas-de-informacao.md)
+- [Gerência de Projetos](./handbook/dcomp/gerencia-de-projetos.md)
 
-<details>
-   <summary>BANCO DE DADOS I</summary>
-</details>
+#### Outras disciplinas
 
-<details>
-   <summary>ENGENHARIA DE SOFTWARE I</summary>
-</details>
+- [Informática, Ética e Sociedade](./handbook/dcomp/informatica-etica-e-sociedade.md)
+- [Seminários em Computação](./handbook/dcomp/seminarios-em-computacao.md)
+- [Interface Humano-Computador](./handbook/dcomp/interface-humano-computador.md)
+- [Métodos e Técnicas de Pesquisa para Computação](./handbook/dcomp/metodos-e-tecnicas-de-pesquisa-para-computacao.md)
+- [Compiladores](./handbook/dcomp/compiladores.md)
 
-<details>
-   <summary>ENGENHARIA DE SOFTWARE II</summary>
-</details>
+#### Conclusão de Curso
 
-<details>
-   <summary>TESTE DE SOFTWARE</summary>
-</details>
+- [Atividades Complementares](./handbook/dcomp/atividades-complementares.md)
+- [Estágio Supervisionado em Computação](./handbook/dcomp/estagio-supervisionado-em-computacao.md)
+- [Trabalho de Conclusão de Curso I](./handbook/dcomp/trabalho-de-conclusao-de-curso-i.md)
+- [Trabalho de Conclusão de Curso II](./handbook/dcomp/trabalho-de-conclusao-de-curso-ii.md)
 
-<details>
-   <summary>QUALIDADE DE SOFTWARE</summary>
-</details>
+<hr/>
+<h3 id="dma">Departamento de Matemática (DMA)</h3>
 
-<details>
-   <summary>EVOLUÇÃO DE SOFTWARE</summary>
-</details>
+#### Cálculo Diferencial e Integral
 
-<details>
-   <summary>PRÁTICA ORIENTADA EM COMPUTAÇÃO I</summary>
-</details>
+- [Cálculo A](./handbook/dma/calculo-a.md)
+- [Cálculo B](./handbook/dma/calculo-b.md)
+- [Cálculo C](./handbook/dma/calculo-c.md)
+- [Cálculo D](./handbook/dma/calculo-d.md)
 
-<details>
-   <summary>PRÁTICA ORIENTADA EM COMPUTAÇÃO II</summary>
-</details>
+#### Equações Diferenciais
 
-### Redes de Computadores
+- [Equações Diferenciais I](./handbook/dma/equacoes-diferenciais-i.md)
+- [Equações Diferenciais II](./handbook/dma/equacoes-diferenciais-ii.md)
 
-<details>
-   <summary>REDES DE COMPUTADORES</summary>
-</details>
+#### Álgebra Linear
 
-<details>
-   <summary>LABORATÓRIO DE REDES DE COMPUTADORES</summary>
-</details>
+- [Vetores e Geometria Analítica](./handbook/dma/vetores-e-geometria-analitica.md)
+- [Álgebra Linear I](./handbook/dma/algebra-linear-i.md)
+- [Álgebra Linear Computacional](./handbook/dma/algebra-linear-computacional.md)
 
-<details>
-   <summary>SISTEMAS DISTRIBUÍDOS</summary>
-</details>
+#### Outras disciplinas
 
-### Software de Baixo Nível
+- [Fundamentos Elementares da Matemática](./handbook/dma/fundamentos-elementares-da-matematica.md)
+- [Cálculo Numérico I](./handbook/dma/calculo-numerico.md)
 
-<details>
-   <summary>SISTEMAS OPERACIONAIS</summary>
-</details>
+<hr/>
+<h3 id="dfi">Departamento de Física (DFI)</h3>
 
-<details>
-   <summary>PROGRAMAÇÃO PARALELA E CONCORRENTE</summary>
-</details>
+#### Física Teórica
 
-<details>
-   <summary>INTERFACE HARDWARE/SOFTWARE</summary>
-</details>
+- [Física 1](./handbook/dfi/fisica-1.md)
+- [Física 2](./handbook/dfi/fisica-2.md)
+- [Física 3](./handbook/dfi/fisica-3.md)
+- [Física 4](./handbook/dfi/fisica-4.md)
 
-### Imagens e Gráficos
+#### Laboratório de Física
 
-<details>
-   <summary>PROCESSAMENTO DE IMAGENS</summary>
-</details>
+- [Laboratório de Física 1](./handbook/dfi/laboratorio-de-fisica-1.md)
+- [Laboratório de Física 2](./handbook/dfi/laboratorio-de-fisica-2.md)
 
-<details>
-   <summary>COMPUTAÇÃO GRÁFICA</summary>
-</details>
+<hr/>
+<h3 id="del">Departamento de Engenharia Elétrica</h3>
 
-### Outras matérias
+- [Introdução à Instrumentação](./handbook/del/introducao-a-instrumentacao.md)
+- [Circuitos Elétricos I](./handbook/del/circuitos-eletricos-i.md)
+- [Análise de Sistemas Lineares](./handbook/del/analise-de-sistemas-lineares.md)
+- [Eletrônica I](./handbook/del/eletronica-i.md)
+- [Controle](./handbook/del/controle.md)
+- [Processamento Digital de Sinais](./handbook/del/processamento-digital-de-sinais.md)
 
-<details>
-   <summary>INFORMÁTICA, ÉTICA E SOCIEDADE</summary>
-</details>
+<hr/>
+<h3 id="decat">Departamento de Estatística e Ciências Atuariais (DECAT)</h3>
 
-<details>
-   <summary>SEMINÁRIOS EM COMPUTAÇÃO</summary>
-</details>
+- [Estatística Aplicada](./handbook/decat/estatistica-aplicada.md)
 
-<details>
-   <summary>INTERFACE HUMANO-COMPUTADOR</summary>
-</details>
+<hr/>
+<h3 id="dad">Departamento de Administração (DAD)</h3>
 
-<details>
-   <summary>MÉTODOS E TÉCNICAS DE PESQUISA PARA COMPUTAÇÃO</summary>
-</details>
-
-<details>
-   <summary>COMPILADORES</summary>
-</details>
-
-### Gestão
-
-<details>
-   <summary>GESTÃO DE SISTEMAS DE INFORMAÇÃO</summary>
-</details>
-
-<details>
-   <summary>GERÊNCIA DE PROJETOS</summary>
-</details>
-
-### Conclusão de Curso
-
-<details>
-   <summary>ATIVIDADES COMPLEMENTARES</summary>
-</details>
-
-<details>
-   <summary>ESTÁGIO SUPERVISIONADO EM COMPUTAÇÃO</summary>
-</details>
-
-<details>
-   <summary>TRABALHO DE CONCLUSÃO DE CURSO I</summary>
-</details>
-
-<details>
-   <summary>TRABALHO DE CONCLUSÃO DE CURSO II</summary>
-</details>
-
-
-<h2 id="dma">Departamento de Matemática (DMA)</h2>
-
-<details>
-   <summary>FUNDAMENTOS ELEMENTARES DA MATEMÁTICA</summary>
-</details>
-
-### Cálculo Diferencial e Integral
-
-<details>
-   <summary>CÁLCULO A</summary>
-</details>
-
-<details>
-   <summary>CÁLCULO B</summary>
-</details>
-
-<details>
-   <summary>CÁLCULO C</summary>
-</details>
-
-<details>
-   <summary>CÁLCULO D</summary>
-</details>
-
-### Equações Diferenciais
-
-<details>
-   <summary>EQUAÇÕES DIFERENCIAIS I</summary>
-</details>
-
-<details>
-   <summary>EQUAÇÕES DIFERENCIAIS II</summary>
-</details>
-
-### Álgebra Linear
-
-<details>
-   <summary>VETORES E GEOMETRIA ANALÍTICA</summary>
-</details>
-
-<details>
-   <summary>ÁLGEBRA LINEAR I</summary>
-</details>
-
-<details>
-   <summary>ÁLGEBRA LINEAR COMPUTACIONAL</summary>
-</details>
-
-### Cálculo Numérico
-
-<details>
-   <summary>CÁLCULO NUMÉRICO I</summary>
-</details>
-
-<details>
-   <summary>CÁLCULO NUMÉRICO II</summary>
-</details>
-
-
-<h2 id="dfi">Departamento de Física</h2>
-
-### Física Teórica
-
-<details>
-   <summary>FÍSICA 1</summary>
-</details>
-
-<details>
-   <summary>FÍSICA 2</summary>
-</details>
-
-<details>
-   <summary>FÍSICA 3</summary>
-</details>
-
-<details>
-   <summary>FÍSICA 4</summary>
-</details>
-
-### Laboratória de Física
-
-<details>
-   <summary>LABORATÓRIO DE FÍSICA 1</summary>
-</details>
-
-<details>
-   <summary>LABORATÓRIO DE FÍSICA 2</summary>
-</details>
-
-<h2 id="del">Departamento de Engenharia Elétrica</h2>
-
-<details>
-   <summary>INTRODUÇÃO À INSTRUMENTAÇÃO</summary>
-</details>
-
-<details>
-   <summary>CIRCUITOS ELÉTRICOS I</summary>
-</details>
-
-<details>
-   <summary>ANÁLISE DE SISTEMAS LINEARES</summary>
-</details>
-
-<details>
-   <summary>ELETRÔNICA I</summary>
-</details>
-
-<details>
-   <summary>CONTROLE</summary>
-</details>
-
-<details>
-   <summary>PROCESSAMENTO DIGITAL DE SINAIS</summary>
-</details>
-
-<h2 id="outros">Outros Departamentos</h2>
-
-### Administração
-
-<details>
-   <summary>INTRODUÇÃO À ADMINISTRAÇÃO</summary>
-</details>
-
-<details>
-   <summary>ORGANIZAÇÃO, MÉTODOS E SISTEMAS ADMINISTRATIVOS</summary>
-</details>
-
-<details>
-   <summary>SOCIOLOGIA DAS ORGANIZAÇÕES</summary>
-</details>
-
-<details>
-   <summary>EMPREENDEDORISMO E GESTÃO DE PEQUENOS NEGÓCIOS</summary>
-</details>
-
-### Estatística
-
-<details>
-   <summary>ESTATÍSTICA APLICADA</summary>
-</details>
+- [Introdução à Administração](./handbook/dad/introducao-a-adminstracao.md)
+- [Organização, Métodos e Sistemas Administrativos](./handbook/dad/organizacao-metodos-e-sistemas-administrativos.md)
+- [Sociologia das Organizações](./handbook/dad/sociologia-das-organizacoes.md)
+- [Empreendedorismo e Gestão de Pequenos Negócios](./handbook/dad/empreendedorismo-e-gestao-de-pequenos-negocios.md)
